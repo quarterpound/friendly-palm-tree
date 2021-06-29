@@ -28,7 +28,7 @@ export default function Footer() {
                                 color: "purple"
                             }} transition="200ms" border={"1px"} color={"white"} borderColor={"#ccc"}
                                  borderRadius={"50%"} p={3}>
-                                <a href={"https://www.linkedin.com/in/ali-gasimzade-9815a117a/"} target={"_blank"}><FaLinkedinIn size={24}/></a>
+                                <a href={"https://www.linkedin.com/in/ali-gasimzade-9815a117a/"} target={"_blank"} rel="noreferrer"><FaLinkedinIn size={24}/></a>
                             </Box>
                         </HStack>
                     </Center>
