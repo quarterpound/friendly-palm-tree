@@ -1,5 +1,5 @@
 import { Flex, Img, Text, HStack, Spacer } from '@chakra-ui/react';
-import {AiFillGithub} from "react-icons/all";
+import {AiFillGithub} from "react-icons/ai";
 
 export default function Navbar() {
     return (
